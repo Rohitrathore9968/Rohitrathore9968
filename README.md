@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohit_9968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_9968" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit singh rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit singh rathore" height="30" width="40" /></a>
-<a href="https://instagram.com/r.-.ilcx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.-.ilcx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-singh-rathore-76317a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-singh-rathore-76317a20a" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/r._.ilcx?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/r._.ilcx?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohitrathore99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohitrathore99" height="30" width="40" /></a>
 </p>
 
